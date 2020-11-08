@@ -1,0 +1,20 @@
+<resources>
+
+<string name="app_name">Length Converter</string>
+<string name="action_settings">Settings</string>
+<string name="txtHintEnter">Enter number</string>
+<string name="btnConvert">Convert</string>
+
+
+<string-array name="unit_arrays">
+    <item> Kilometers </item>
+    <item> MilliMeters </item>
+    <item> Centimeters </item>
+    <item> Meters </item>
+    <item> Inches </item>
+    <item> Feets </item>
+    <item> Yards </item>
+
+</string-array>
+
+</resources>
